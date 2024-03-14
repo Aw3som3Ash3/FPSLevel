@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Repos/FPSLevel/FPSLevel/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/LK/OVPMBG54VZIAJG00WDVDSX.uasset",
+				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/GX/2LURRYLGH53TD34F7LF7RR.uasset",
 				"C:/tokamak/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset",
 				"C:/tokamak/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset",
 				"C:/tokamak/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset",
@@ -74,8 +80,7 @@
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"G:/Repos/FPSLevel/FPSLevel/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
