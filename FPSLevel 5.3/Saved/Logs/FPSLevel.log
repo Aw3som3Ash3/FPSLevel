@@ -1479,3 +1479,72 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.04.19-01.53.24:174][760]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.19-01.53.24:174][760]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_782B46EE41ED74ED01_1821381847
 [2024.04.19-01.53.24:174][760]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_782B46EE41ED74ED01_1903471848
+[2024.04.19-01.56.16:559][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.19-01.56.16:563][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.042
+[2024.04.19-01.56.16:565][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/crystals/keycard] ([1] browsable assets)...
+[2024.04.19-01.56.16:877][337]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CaveAssets/crystals/keycard.keycard]
+[2024.04.19-01.56.16:877][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/crystals/keycard]
+[2024.04.19-01.56.16:898][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CaveAssets/crystals/keycard_Auto1
+[2024.04.19-01.56.16:898][337]LogSavePackage: Moving '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/keycard_Auto1FC60A9874AFA2DD576A80F91455A20DD.tmp' to '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/Autosaves/Game/CaveAssets/crystals/keycard_Auto1.uasset'
+[2024.04.19-01.56.16:905][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/crystals/console] ([1] browsable assets)...
+[2024.04.19-01.56.16:970][337]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CaveAssets/crystals/console.console]
+[2024.04.19-01.56.16:970][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/crystals/console]
+[2024.04.19-01.56.16:989][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CaveAssets/crystals/console_Auto1
+[2024.04.19-01.56.16:990][337]LogSavePackage: Moving '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/console_Auto1BDF14AB54F896D95E052F3A6D72CC8DC.tmp' to '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/Autosaves/Game/CaveAssets/crystals/console_Auto1.uasset'
+[2024.04.19-01.56.16:998][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/crystals/redcrystal] ([1] browsable assets)...
+[2024.04.19-01.56.17:059][337]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CaveAssets/crystals/redcrystal.redcrystal]
+[2024.04.19-01.56.17:059][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/crystals/redcrystal]
+[2024.04.19-01.56.17:073][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CaveAssets/crystals/redcrystal_Auto1
+[2024.04.19-01.56.17:074][337]LogSavePackage: Moving '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/redcrystal_Auto147B32FF24AA73C31E7FE1798C62469F1.tmp' to '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/Autosaves/Game/CaveAssets/crystals/redcrystal_Auto1.uasset'
+[2024.04.19-01.56.17:085][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/crystals/lambert2] ([1] browsable assets)...
+[2024.04.19-01.56.19:142][337]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.04.19-01.56.24:740][337]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 5.598368s
+[2024.04.19-01.56.24:744][337]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 7.603097s (5.603097s overbudget)
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: ================================================
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: Total job queries 105, among them cache hits 37 (35.24%)
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 48 distinct outputs (70.59%)
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: RAM used: 1.53 MiB of 1.60 GiB budget. Usage: 0.09%
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-01.56.24:758][337]LogShaderCompilers: Display: Shaders Compiled: 44
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Average time worker was idle: 71.54 s
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 4.82 s
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Job execution time: average 1.70 s, max 5.46 s
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Job life time (pending + execution): average 2.34 s, max 6.67
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Shader code size: average 40.895 KiB, min 29.605 KiB, max 62.348 KiB
+[2024.04.19-01.56.24:759][337]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.37 s
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Average processing rate: 3.29 jobs/sec
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Total thread time: 46.606 s
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Total thread preprocess time: 4.715 s
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Percentage time preprocessing: 10.12%
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Effective parallelization: 3.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-01.56.24:760][337]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 2.12 sec, max 3.63 sec, min 0.60 sec)
+[2024.04.19-01.56.24:761][337]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.93 sec, max 3.31 sec, min 0.56 sec)
+[2024.04.19-01.56.24:761][337]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.91 sec, max 3.26 sec, min 0.56 sec)
+[2024.04.19-01.56.24:761][337]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.82 sec, max 3.09 sec, min 0.56 sec)
+[2024.04.19-01.56.24:761][337]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.70 sec, max 2.80 sec, min 0.60 sec)
+[2024.04.19-01.56.24:761][337]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-01.56.24:761][337]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 9.08% of total time (compiled    2 times, average 2.12 sec, max 3.63 sec, min 0.60 sec)
+[2024.04.19-01.56.24:762][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.41% of total time (compiled    6 times, average 0.65 sec, max 0.89 sec, min 0.37 sec)
+[2024.04.19-01.56.24:762][337]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.30% of total time (compiled    2 times, average 1.93 sec, max 3.31 sec, min 0.56 sec)
+[2024.04.19-01.56.24:762][337]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.21% of total time (compiled    2 times, average 1.91 sec, max 3.26 sec, min 0.56 sec)
+[2024.04.19-01.56.24:762][337]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.82% of total time (compiled    2 times, average 1.82 sec, max 3.09 sec, min 0.56 sec)
+[2024.04.19-01.56.24:762][337]LogShaderCompilers: Display: ================================================
+[2024.04.19-01.56.24:814][337]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CaveAssets/crystals/lambert2.lambert2]
+[2024.04.19-01.56.24:814][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/crystals/lambert2]
+[2024.04.19-01.56.24:823][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CaveAssets/crystals/lambert2_Auto1
+[2024.04.19-01.56.24:823][337]LogSavePackage: Moving '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/lambert2_Auto1F551CEFC40518743E64F34BF92F24894.tmp' to '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/Autosaves/Game/CaveAssets/crystals/lambert2_Auto1.uasset'
+[2024.04.19-01.56.24:828][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/crystals/crystalmachine2] ([1] browsable assets)...
+[2024.04.19-01.56.24:897][337]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CaveAssets/crystals/crystalmachine2.crystalmachine2]
+[2024.04.19-01.56.24:897][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/crystals/crystalmachine2]
+[2024.04.19-01.56.24:919][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CaveAssets/crystals/crystalmachine2_Auto1
+[2024.04.19-01.56.24:920][337]LogSavePackage: Moving '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/crystalmachine2_Auto12A55C2D54B9135AA150E55AD72E57D55.tmp' to '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/Autosaves/Game/CaveAssets/crystals/crystalmachine2_Auto1.uasset'
+[2024.04.19-01.56.24:926][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CaveAssets/crystals/keycardlevdes] ([1] browsable assets)...
+[2024.04.19-01.56.24:941][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/CaveAssets/crystals/keycardlevdes.keycardlevdes]
+[2024.04.19-01.56.24:942][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/CaveAssets/crystals/keycardlevdes]
+[2024.04.19-01.56.24:964][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CaveAssets/crystals/keycardlevdes_Auto1
+[2024.04.19-01.56.24:964][337]LogSavePackage: Moving '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/keycardlevdes_Auto194FE7E5F4A75C3F335E9DFACFD6BB021.tmp' to '../../../../../../tokamak/FPSLevel/FPSLevel 5.3/Saved/Autosaves/Game/CaveAssets/crystals/keycardlevdes_Auto1.uasset'
+[2024.04.19-01.56.24:971][337]LogFileHelpers: Auto-saving content packages took 8.407
