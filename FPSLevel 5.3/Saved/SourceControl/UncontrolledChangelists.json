@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/A7/2HFBCSW8MK4PUTX0C270G6.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/86/P35U12ZQ8LNIN922AZ4UP6.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EU/CHKP4NNV8T5DB28EQB5PWW.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/AH/PD532UC9VV5A46OL2PO82R.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/QV/DECCJ4BNMSYF5SIXLRFH5W.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/CJ/DH62FEGW4OMBJAIWV77X3K.uasset",
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/1N/NTEVOVZJMHHU27053F9E5X.uasset",
 				"G:/Repos/FPSLevel/FPSLevel/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
@@ -80,7 +90,6 @@
 				"C:/tokamak/FPSLevel/FPSLevel 5.3/Content/CaveAssets/crystals/uploads_files_3678842_robot_Skeleton.uasset",
 				"C:/tokamak/FPSLevel/FPSLevel 5.3/Content/CaveAssets/crystals/uploads_files_3678842_robot_PhysicsAsset.uasset",
 				"G:/Repos/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/GX/2LURRYLGH53TD34F7LF7RR.uasset",
-				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
@@ -135,9 +144,7 @@
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset",
 				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset",
-				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset",
-				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+				"C:/Users/gavin/Documents/GitHub/FPSLevel/FPSLevel 5.3/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset"
 			]
 		}
 	]
